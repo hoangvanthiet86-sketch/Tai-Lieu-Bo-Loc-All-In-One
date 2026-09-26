@@ -1,5 +1,11 @@
 # Lịch sử tài liệu
 
+## 1.0.2 — Bản AZW3 chép trực tiếp vào Kindle
+
+- Bổ sung tệp AZW3 tương thích Kindle Format 8 để chép bằng cáp USB.
+- Giữ metadata tiếng Việt, bìa sách và 27 mục điều hướng nội dung.
+- Bổ sung hướng dẫn chọn EPUB hoặc AZW3 trong README.
+
 ## 1.0.1 — Bản EPUB dành cho Kindle
 
 - Hợp nhất toàn bộ nội dung thành một tệp EPUB duy nhất.
