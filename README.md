@@ -8,6 +8,12 @@ Mục tiêu của tài liệu là giúp người dùng đi từ mức cơ bản 
 
 > **Lưu ý quan trọng:** AFL là công cụ lọc và hỗ trợ phân tích. AFL không gán `Buy`, `Sell`, `Short`, `Cover`; không thay thế việc đọc biểu đồ, quản trị rủi ro và lập kế hoạch giao dịch.
 
+## Bản sách điện tử dành cho Kindle
+
+Tải một tệp duy nhất: [Hướng dẫn Bộ lọc All In One + Wyckoff/VSA — EPUB](ebook/Huong-dan-Bo-loc-All-In-One-Wyckoff-VSA-v1.0.epub).
+
+Bản EPUB có chữ co giãn, bìa sách, mục lục điều hướng và ngắt chương; toàn bộ sơ đồ đã được chuyển sang dạng chữ để đọc tốt trên màn hình Kindle. Sau khi tải, gửi tệp qua [Send to Kindle](https://www.amazon.com/sendtokindle) để Amazon chuyển đổi và đồng bộ vào thư viện Kindle.
+
 ## Bắt đầu nhanh
 
 1. Mở AFL trong AmiBroker Formula Editor và chạy **Verify Formula**.
@@ -78,4 +84,3 @@ Mục tiêu của tài liệu là giúp người dùng đi từ mức cơ bản 
 ## Phiên bản tài liệu
 
 Tài liệu hiện tại được viết cho AFL **v1.7.0 PNF Đếm Ngang**. Khi công thức AFL thay đổi, tài liệu và bảng tra cứu phải được cập nhật cùng phiên bản.
-
